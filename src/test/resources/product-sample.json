@@ -1,0 +1,31 @@
+{
+  "productId": "5eb908539df8de7c94996345",
+  "sellerId": "6622",
+  "title": "Peas",
+  "pageTitle": "Green and Fresh",
+  "description": "Greeen Veg",
+  "manufacturer": "Saffola",
+  "metafields": [
+    {
+      "key": "pea",
+      "value": "1 kg"
+    }
+  ],
+  "requiresShipping": true,
+  "publishedAt": {
+    "date": 1589184595568
+  },
+  "createdAt": {
+    "date": 1589184595568
+  },
+  "updatedAt": {
+    "date": 1589184595568
+  },
+  "workflow": {
+    "status": "NEW"
+  },
+  "soldOut": true,
+  "lowQuantity": true,
+  "backorder": true,
+  "visible": true
+}

@@ -1,0 +1,33 @@
+{
+  "product": {
+    "productId": "5eb8501a2e6b520b10a0b605",
+    "sellerId": "a2121",
+    "title": "Coca cola ",
+    "pageTitle": "new launch",
+    "description": "Coke 300ml ",
+    "manufacturer": "Coca cola",
+    "metafields": [
+      {
+        "key": "coke",
+        "value": "300ml"
+      }
+    ],
+    "requiresShipping": true,
+    "publishedAt": null,
+    "createdAt": null,
+    "updatedAt": null,
+    "workflow": null,
+    "soldOut": true,
+    "lowQuantity": true,
+    "backorder": true,
+    "visible": true
+  },
+  "productPrice": {
+    "product_id": "5eb8501a2e6b520b10a0b605",
+    "price": {
+      "range": "21-25",
+      "min": 20,
+      "max": 40
+    }
+  }
+}
